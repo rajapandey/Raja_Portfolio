@@ -134,7 +134,7 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "github.com/rajapandey",
+    github: "https://www.github.com/rajapandey",
     linkedin: "https://www.linkedin.com/in/raja2807",
     // twitter: "https://twitter.com",
 };
