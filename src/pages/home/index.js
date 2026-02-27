@@ -4,7 +4,7 @@ import { Helmet, HelmetProvider } from "react-helmet-async";
 import Typewriter from "typewriter-effect";
 import { introdata, meta } from "../../content_option";
 import { Link } from "react-router-dom";
-import rajaImage from "../../assets/images/raja_image.png";
+import rajaImage from "../../assets/images/rajaImage.png";
 
 export const Home = () => {
   return (

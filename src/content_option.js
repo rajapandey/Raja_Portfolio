@@ -13,7 +13,7 @@ const introdata = {
     },
     description: "Full stack MERN developer",
     your_img_url: "",
-    your_img_local: "raja_image.png",
+    your_img_local: "rajaImage.png",
 
 };
 
